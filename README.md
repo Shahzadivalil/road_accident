@@ -1,7 +1,7 @@
 # Road Accident Analysis using powerbi
 Road accident survey visualization done by power bi
 
-    Creating a road accident analysis visualization in Power BI involves using various charts and graphs to gain insights into accident data. Below is a description of how you can visualize road accident data effectively:
+Creating a road accident analysis visualization in Power BI involves using various charts and graphs to gain insights into accident data. Below is a description of how you can visualize road accident data effectively:
 
 1. Geographic Distribution:
 
